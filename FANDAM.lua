@@ -66,7 +66,7 @@ while(true) do
 rm -fr ../.telegram-cli
 echo -e ""
 echo -e ""
-./tg -s ./FAEDER.lua $@ --bot=$token
+./tg -s ./FANDAM.lua $@ --bot=$token
 done
 ]])  
 file:close()  
