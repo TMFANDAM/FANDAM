@@ -1,7 +1,7 @@
 -- Welcom to file the best source in the telegram
  -- all the file by faeder dx @Wt_5m
- -- join in chennel @XMGXM 
- -- join in chennel @XMGXM
+ -- join in chennel @X04XX 
+ -- join in chennel @X04XX
 --*********Serpent*******--
 serpent = require("serpent")
 --***********Lgi*********--
@@ -4125,7 +4125,7 @@ faederdx(msg.chat_id_, msg.id_, 1,[[*
 ⏱┇ ارسل امر { امثله } لبدء لعبه 
 🔔┇ ارسل امر { المختلف } لبدء لعبه 
 ➖➖➖➖➖➖➖
-🔊┇ قناة السورس *[@XMGXM] 
+🔊┇ قناة السورس *[@X04XX] 
 ]], 1, 'md')
 end
 end
@@ -10402,7 +10402,7 @@ if link.ok == true then
   t2.invite_link_ = link.result
 end
 end
-faederdx1:set(FAEDER.."bot:group:link"..msg.chat_id_,(t2.invite_link_ or "@XMGXM")) 
+faederdx1:set(FAEDER.."bot:group:link"..msg.chat_id_,(t2.invite_link_ or "@X04XX")) 
 faederdx(msg.chat_id_, msg.id_, 1, "🩸┇ المنشئ ⌯» ["..monsh.."]\n\n🦠┇الرابط ["..title_name(chattid).."]("..(t2.invite_link_ or "t.me/XMGXM")..")\n🧪┇ايديها ⌯» *"..msg.chat_id_.."*\n🎎┇عدد الاعضاء ⌯» *"..data.member_count_.."* \n🧫┇ عدد المدراء   ⌯» *"..Owner.."*\n🥁┇ عدد المنشئين   ⌯» *"..Monsh.."*\n🗽┇ عدد الادمنيه   ⌯» *"..Momod.."*\n🩸┇ عدد المكتومين  ⌯» *"..Muted.."*\n🔇┇ عدد المحظورين ⌯» *"..Baned.."*\n⛔️┇ عدد المقيدين   ⌯» *"..Tkeed.."*\n🗞┇ عدد المميزين  ⌯» *"..Vip.."*\n", 1,"md")
 end
 tdcli_function ({
@@ -10506,7 +10506,7 @@ faederdx(msg.chat_id_, msg.id_, 1,[[*
 ⏱┇ ارسل امر { امثله } لبدء لعبه 
 🔔┇ ارسل امر { المختلف } لبدء لعبه 
 ➖➖➖➖➖➖➖
-🔊┇ قناة السورس *[@XMGXM] 
+🔊┇ قناة السورس *[@X04XX] 
 ]], 1, 'md')
 faederdx1:set(FAEDER..'bot:lock_geam'..msg.chat_id_,true)  
 end
@@ -10681,7 +10681,7 @@ else
 local groups = function(extra, result) 
 local num = (faederdx1:scard(FAEDER.."bot:groups"))
 local list = faederdx1:smembers(FAEDER.."bot:groups")
-local text = "~ Groups_Bots_In_the_Bot_Of_Source_Faeder ~ @XMGXM\n\n"
+local text = "~ Groups_Bots_In_the_Bot_Of_Source_Faeder ~ @X04XX\n\n"
 for k,v in pairs(list) do
 local GroupsMonsh = faederdx1:scard(FAEDER.."bot:monsh:"..v) or 0
 local GroupsOwner = faederdx1:scard(FAEDER.."bot:owners:"..v) or 0
@@ -10956,7 +10956,7 @@ local text =  [[
 ➖➖➖➖➖➖➖ ➖➖➖ 
   🦠┇مطور البوت  ]]..SUDOUSERNAME..[[
 
-  🔊┇قناة السورس @XMGXM
+  🔊┇قناة السورس @X04XX
 ]] 
 faederdx(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end
@@ -11019,7 +11019,7 @@ local text =  [[
   ➖➖➖➖➖➖➖➖➖➖
   🦠┇مطور البوت  ]]..SUDOUSERNAME..[[
 
-  🔊┇قناة السورس @XMGXM
+  🔊┇قناة السورس @X04XX
 ]]
 faederdx(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end
@@ -11096,7 +11096,7 @@ local text =  [[
   ➖➖➖➖➖➖➖➖➖➖➖➖
     🦠┇مطور البوت  ]]..SUDOUSERNAME..[[
 
-    🔊┇قناة السورس @XMGXM
+    🔊┇قناة السورس @X04XX
 ]]
 faederdx(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end 
@@ -11171,7 +11171,7 @@ local text =  [[
   ➖➖➖➖➖➖➖➖➖➖➖➖
     🦠┇مطور البوت  ]]..SUDOUSERNAME..[[
 
-    🔊┇قناة السورس @XMGXM
+    🔊┇قناة السورس @X04XX
 ]]
 faederdx(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end 
@@ -11218,7 +11218,7 @@ local text =  [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
   🦠┇مطور البوت  ]]..SUDOUSERNAME..[[
 
-  🔊┇قناة السورس @XMGXM
+  🔊┇قناة السورس @X04XX
 ]]
 faederdx(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end
@@ -11265,7 +11265,7 @@ local text =  [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
      🦠┇مطور البوت  ]]..SUDOUSERNAME..[[
 
-     🔊┇قناة السورس @XMGXM
+     🔊┇قناة السورس @X04XX
 ]]
 faederdx(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end
@@ -11315,7 +11315,7 @@ local text =  [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
      🦠┇مطور البوت  ]]..SUDOUSERNAME..[[
 
-     🔊┇قناة السورس @XMGXM
+     🔊┇قناة السورس @X04XX
 ]]
 faederdx(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end
@@ -11365,7 +11365,7 @@ local text =  [[
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
      🦠┇مطور البوت  ]]..SUDOUSERNAME..[[
 
-     🔊┇قناة السورس @XMGXM
+     🔊┇قناة السورس @X04XX
 ]]
 faederdx(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end
@@ -11451,7 +11451,7 @@ local text =  [[
       ➖➖➖➖➖➖➖➖
     🦠┇مطور البوت  ]]..SUDOUSERNAME..[[
 
-    🔊┇قناة السورس @XMGXM
+    🔊┇قناة السورس @X04XX
 ]]
 faederdx(msg.chat_id_, msg.id_, 1, (help or text), 1, 'html')
 end
@@ -11506,7 +11506,7 @@ end end
 ------------
 -------------------------------------------------faeder----------------------------------------------
 if text:match("^قرنابيط$") then
-faederdx(msg.chat_id_, msg.id_, 1, '🩸┇ قنوات السورس \n\n [@XMGXM] \n\n [@XMGXM] \n ['..os.date("%H:%M:%S")..']', 1, 'md')    
+faederdx(msg.chat_id_, msg.id_, 1, '🩸┇ قنوات السورس \n\n [@X04XX] \n\n [@X04XX] \n ['..os.date("%H:%M:%S")..']', 1, 'md')    
 end end
 if tonumber(msg.sender_user_id_) == tonumber(bot_owner) then 
 if (msg.content_.text_ == 'stats server' or msg.content_.text_ == 'السيرفر') then 
@@ -11580,5 +11580,5 @@ end
 end 
 -- END VERSION FAEDER DX 
 -- all the file by faeder dx @Wt_5m
--- join in chennel @XMGXM  
--- join in chennel @XMGXM  
+-- join in chennel @X04XX  
+-- join in chennel @X04XX  
